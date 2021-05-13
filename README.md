@@ -7,7 +7,7 @@
 
 To use YMNetWork add the following to your Podfile
 
-    pod 'YMNetWork' :podspec => 'https://raw.githubusercontent.com/wayhood/YMNetWork/main/YMNetWork.podspec'
+    pod 'YMNetWork', :podspec => 'https://raw.githubusercontent.com/wayhood/YMNetWork/main/YMNetWork.podspec'
  
 ## License
 
